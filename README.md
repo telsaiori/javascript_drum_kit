@@ -1,5 +1,6 @@
-#
-Javascript drum kit
+# Javascript drum kit 
+javascript30 https://javascript30.com
+
 完成品
 https://telsaiori.github.io/javascript_drum_kit/index.html
 
